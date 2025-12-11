@@ -11,9 +11,9 @@ Este projeto foi desenvolvido como parte da avaliação da disciplina de **Biolo
 | Campo | Detalhe |
 | :--- | :--- |
 | **Disciplina** | Biologia Computacional |
-| **Instituição** | [Nome da sua Universidade - Opcional] |
+| **Instituição** | Universidade Federal Rural de Pernmabuco |
 | **Docente** | Profa. Jeane Melo |
-| **Estudantes** | • Bruno Rezende<br>• Rogério Júnior<br>• Eduardo Silva |
+| **Estudantes** | • Bruno Rezende<br>• Eduardo Silva<br>• Rogério Júnior |
 
 ---
 
@@ -47,6 +47,7 @@ Abaixo, uma visualização da simulação em execução, demonstrando a interaç
 
 <img width="1098" height="724" alt="BioNexus-Simulator" src="https://github.com/user-attachments/assets/7f442b84-c3c4-4154-80a4-99a78d02a88a" />
 
+
 *Visualização gráfica gerada via PyGame com layout de força (spring layout) do NetworkX.*
 
 ## 🎮 Controles e Comandos
@@ -72,3 +73,13 @@ A interface gráfica permite interação total via teclado e mouse:
 * **Tecla I:** Introduz espécie **Invasora** (Gato Doméstico).
 
 ---
+
+## 🛠️ Instalação e Execução
+
+### Pré-requisitos
+Você precisará de Python instalado e das bibliotecas listadas.
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/eduardofelipe0/Projeto-Biologia-Computacional.git](https://github.com/eduardofelipe0/Projeto-Biologia-Computacional.git)
+   cd Projeto-Biologia-Computacional
