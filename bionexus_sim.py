@@ -494,16 +494,11 @@ def main():
                 if event.key == pygame.K_g:
                     show_history_plot(G)
 
-                
-
-                
-
             draw_graph(G, selected_node)
             pygame.display.flip()
 
     pygame.quit()
     sys.exit()
-
 
 if __name__ == "__main__":
     main()
