@@ -41,14 +41,6 @@ Onde:
 
 ---
 
-## 📸 Interface do Sistema
-
-Abaixo, uma visualização da simulação em execução, demonstrando a interação entre os nós (espécies) e o painel de controle.
-
-<img width="1098" height="724" alt="BioNexus-Simulator" src="https://github.com/user-attachments/assets/7f442b84-c3c4-4154-80a4-99a78d02a88a" /><br>
-
-*Visualização gráfica gerada via PyGame com layout de força (spring layout) do NetworkX.*
-
 ## 🎮 Controles e Comandos
 
 A interface gráfica permite interação total via teclado e mouse:
